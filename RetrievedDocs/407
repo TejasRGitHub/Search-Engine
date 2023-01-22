@@ -1,0 +1,849 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Bias and Emergent Instabilities in Socially-embedded Algorithms | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+Sep
+22
+2022
+
+Bias and Emergent Instabilities in Socially-embedded Algorithms
+CS Distinguished Lecture Series
+
+
+
+        September 22, 2022
+
+    
+
+
+            11:00 AM - 12:15 PM
+            
+     
+
+
+
+Location
+ERF 1043
+
+
+Address
+
+                                                            842 W Taylor St.,
+                                                                                  Chicago,
+                                                              IL
+                                        60607
+                                  
+
+
+Calendar
+Download iCal File
+
+
+
+Bias and Emergent Instabilities in Socially-embedded Algorithms
+Presenter: Kristina Lerman, University of Southern California
+Abstract:Algorithms are embedded in our lives, mediating our interactions with the digital world and with each other. While this creates new opportunities for algorithms to improve the human condition, unthinking reliance on algorithms can threaten even the best-intentioned applications. In this talk, hear how the feedback loop between people and algorithms can amplify subtle biases to create unintended and undesirable outcomes, such as instability and inequality. First, Lerman will describe crowdsourcing systems that aggregate decisions of many people to identify high-quality content, such as the best answers to questions or interesting news stories. Using evidence from statistical studies and controlled experiments, she will show how human cognitive biases interact with algorithmic ranking to create an instability of collective outcomes. This instability can prevent the better-quality options from becoming the most popular. Next, I explore via simulations collaborative filtering-based recommender systems. These simulations reveal how the feedback loop between algorithmic recommendations and personal choices can create algorithmic chaos, which leads to erroneous recommendation and makes the system unstable. As a consequence, slight fluctuations in initial choices result in unpredictable variations of final popularity. Finally, Lerman addresses gender bias in scientific citations. I present theoretical and empirical findings showing how preference to cite authors of the same gender can explain large disparity in citations women receive in many scientific disciplines. These results highlight the need to account for emergent instabilities when building algorithms that interact with people.
+Speaker bio: Kristina Lerman is a principal scientist at the University of Southern California Information Sciences Institute, and holds a joint appointment as a research professor in the USC Computer Science Department. Trained as a physicist, she now applies network analysis and machine learning to problems in computational social science, including crowdsourcing, social network, and social media analysis. She is a fellow of the American Association for Artificial Intelligence. Her work on modeling and understanding cognitive biases in social networks has been covered by the Washington Post, Wall Street Journal, and MIT Tech Review.
+Faculty host: Elena Zheleva
+
+
+Contact
+Elena Zheleva
+
+zheleva@uic.edu
+
+
+
+Date posted
+Sep 15, 2022
+
+
+Date updated
+Sep 15, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

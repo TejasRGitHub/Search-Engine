@@ -1,0 +1,828 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            UIC researchers zero in on critical information to combat cyberattacks | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+UIC researchers zero in on critical information to combat cyberattacks
+
+
+by Andrea Poet
+|
+Posted on June 01, 2020
+
+
+
+
+
+
+
+
+            UIC researchers zero in on critical information to combat cyberattacks
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+In recent years, targeted cyberattacks have increased dramatically, wreaking havoc on all manner of large enterprises including businesses, governments, and educational institutions. The explosion of these attacks, also called advanced persistent threats, undermine public trust in cyber technologies, and cost enormous sums. Worldwide cybercrime loss was estimated at over one trillion dollars in 2018, almost double the assumed losses in 2017.
+Venkat Venkatakrishnan, associate dean for Research and Graduate Studies and professor of computer science, and Rigel Gjomemo, a research associate professor at UIC, received a four-year, $612,000 National Science Foundation Grant titled “SaTC: CORE: Medium: Collaborative: RADAR: Real-time Advanced Detection and Attack Reconstruction.” The aim of the grant is to allow cyber analysts to detect and respond to these threats in real time.
+Existing cyber defense tools, such as intrusion detection systems, are helpful but generate a torrent of information. Not only does a cyber analyst have to sift through mountains of data to find the intrusion, they often lack tools to piece together the fragments of an attack that spans multiple hosts or applications. And cyberattackers have gotten more sophisticated and are able to bypass these protective systems altogether in many cases.
+“How do we take these billions of records and bring it down to a few thousand, or a few hundred that represent threat activity? That is the big challenge we are addressing,” Venkatakrishnan said.
+What’s needed is a way to learn more than just an attack has occurred, to obtain a snapshot of the intrusion: what are the criminals are after, what do they want to achieve, and how did they get in. Determining how these things are connected, what, if any response action to take, and the overall impact of the attack on the system are all important to responding well to a cyberattack.
+“An intrusion detection system may tell you, all right, they read our emails. It will not tell you they also changed the database passwords, or the salaries in the database, or that they read all the social security numbers,” Gjomemo said. “For that you need to be able to connect these dots, sound different alarms. You have to be able to detect the cause and effect.”
+This grant is building on four years of research conducted by Venkatakrishnan and his team, work that is part of the Defense Advance Research Projects Agency on the Transparent Computing program. In the program, a series of red team – blue team engagements took place where the red team simulated attackers and the blue team had to defend an enterprise network in real time. A third team monitored each exercise to see how well the blue team did in rooting out the attacks.
+The UIC team’s approach utilized a provenance graph, which records and preserves all of the components and processes in an enterprise system, tracking the interactions and creating a roadmap to trace all activities in a high level of detail. This creates windows into a normally opaque process.
+“This is the sort of novelty other tools haven’t done before,” Venkatakrishnan said. “We’re organizing this information in the form of a provenance graph, then building algorithms that do root cause analysis, how did the attacker get in; or impact analysis, what activities did the attacker perform once he got in. We are building the organization of this data because we are talking about millions or billions of records in an enterprise system.”
+Additionally, the team is using the provenance graphs to learn what is normal behavior in the system, and what is out of the ordinary. This can be complicated by the fact that data in a given system may be corrupt from past attacks.
+Venkatakrishnan said the approach they’ve developed is applicable to enterprise networks that exist today, and they’ve already built tools for enterprise systems that run Windows, Linux, or Mac, and to some extent Android operating systems.
+“The system we are building will have very few false positives. It will really improve accuracy and cut down on the number of false alarms,” Gjomemo said. “We will be able to provide a whole picture so they don’t have to go back and look at one million or 10 million records, to find those four or five produced by the attacker.”
+Sadhegh Momemi, a former PhD student of Venkatakrishnan, was recently hired by Google after completing his degree to work on their enterprise team as a result of his contributions to this research.
+The project is a joint collaboration, part of a larger overall project with the State University of New York at Stony Brook with R. Sekar, with overall funding of $1.2 million. Microsoft Research is also collaborating. The project also has a significant participation component, providing education for graduate, undergraduate, and K-12 through cybersecurity coursework, research, and outreach activities. Governor’s State University and Chicago Public Schools are partnering, as well as the National Center for Women & Information Technology.  The grant period runs through October 2023.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

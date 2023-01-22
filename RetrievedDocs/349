@@ -1,0 +1,840 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Maximizing cancer survival, minimizing treatment side effects with AI | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+Maximizing cancer survival, minimizing treatment side effects with AI
+
+
+Posted on May 25, 2021
+
+
+
+
+
+
+
+
+            Maximizing cancer survival, minimizing treatment side effects with AI
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+
+          Lance Long
+        
+
+          UIC’s Liz Marai (center) and collaborators examine a large dataset in the Electronic Visualization Laboratory’s high-resolution CAVE2 environment at the UIC College of Engineering.
+        
+
+
+Computer scientists at the University of Illinois Chicago are developing a computational artificial intelligence system they hope will serve as a decision support tool for doctors prescribing treatment for head and neck cancer. The work is supported by a $2.8 million grant from the National Institutes of Health.
+“Chemotherapy and radiation can have very serious side effects, so knowing more about when it makes sense to prescribe these treatments and at what time points is valuable information,” said Liz Marai, associate professor of computer science at the UIC College of Engineering and principal investigator. “But most cancer treatment decisions are made by small groups of doctors during what is called ‘tumor board’ meetings where they discuss their patients and come up with treatment plans. We want to develop a scalable system based on real cancer patient data that can help guide physicians in how to treat specific patients.”
+Their AI system will also have the capability to determine treatments based on the longer-term data it has been given.
+“Clinicians make decisions based on the information they have at that specific moment, and on physician memory of similar patients, for example, patients with similar tumor location or disease spread in their body. Our system will be able to take into account the impact of prescribed treatment on possible future decisions and make suggestions accordingly,” said Xinhua Zhang, assistant professor of computer science and co-principal investigator.
+The researchers hope their system — which is being developed with physicians at the University of Texas and data mining specialists at the University of Iowa — will be able to play out different scenarios to maximize efficacy and improve survival outcomes.
+To develop the AI system, the researchers collected medical records data on head and neck cancer patients treated in Houston. Included in the data were information on symptoms, cancer stage, tumor type, tumor location, prescribed treatments, and medical images, such as PET and CT scans, for example.
+“We processed this data repository to extract anatomical features and to train the AI system so that it can learn how patients responded to different treatments and what their outcomes were. That way, when a new patient arrives, the AI model can consult that knowledge and the new patient’s data, and determine what treatments might work best, without having to rely on physician memory” Marai said. “The AI system is not meant to replace the physician’s opinion, it is a decision tool to consult that could help improve patient survival while minimizing side effects from chemotherapy and radiation.”
+The researchers are now in the process of further developing their AI by testing it on “digital twin” patients — simulated patients based on data collected from real cancer patients.
+“We cannot test the system by directly applying AI-recommended treatment to real patients at this stage, so we are creating a simulation where we can safely evaluate how well the AI is learning and prescribing,” Zhang said.
+They are also developing ways to have the AI use only specific groups of patients in its computational analysis.
+“If we can have the AI use only data from say, cancer patients who have the same type of tumor characteristics, that would be even more useful when consulting the AI on treatment for those types of patients. Tumor type, size, and previous treatment are all important to take into account,” Marai said.
+By providing more information from patient records into their computational system, such as location and spread of tumors and even reported patient symptoms, they hope to further improve its ability to serve as a valuable decision support tool for oncologists.
+Marai and Zhang are using the computational resources at the University of Illinois Chicago’s Electronic Visualization Laboratory to develop their cancer treatment AI. Guadalupe Canahuate of the University of Iowa and Dr. David Fuller of the University of Texas are also investigators on the NIH grant (R01CA258827).
+This story first appeared in UIC Today.
+
+
+
+
+Modified on June 01, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

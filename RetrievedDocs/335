@@ -1,0 +1,834 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            CAREER grant opens path for causal inference in AI | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+CAREER grant opens path for causal inference in AI
+
+
+David Brazy
+|
+Posted on August 23, 2021
+
+
+
+
+
+
+
+
+            Text block one
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+
+          Jim Young
+        
+
+
+Computers and artificial intelligence programs now play a significant role in helping people to make decisions— for themselves and for society—and immense amounts of data are essential to that process.
+Digital systems still struggle to extract causal patterns from these big data networks, however. Elena Zheleva, an assistant professor of computer science at UIC, hopes that her recent $600,000 National Science Foundation CAREER grant on relational causal inference can help to improve the connections between data sources and decision-supporting programs.
+Causal reasoning with big data requires accounting for the bias, noise, heterogeneity, and complex relationships inherent to such massive amounts of information, Zheleva explained. Her project will address this need by bringing together and building on recent advances in machine learning and causal inference for relational data, such as information gathered from social networks.
+“Modern technologies, powered by big data and AI, are influencing our decisions daily, from what to read, to whom to date, whether to invite a job applicant for an interview, and what drug to develop next,” Zheleva said. “However pervasive, these technologies rarely reason about cause and effect and the consequences of their own behavior.”
+Unless researchers can incorporate causal inference into computation, she warned, we may be unable to realize the full potential of big data, and we will be unlikely to create data-centric technologies that are fair, unbiased, and responsible.
+Causal analysis is common in the social and life sciences and in empirical policy and marketing research, Zheleva said. Many of these disciplines are looking to adjust their analyses in the era of big data.
+She noted this research is a step toward creating machines that can reason not only based on correlations in data but can also support and make decisions based on analysis of potential consequences, a staple of causal inference. To do this, the machines need to be able to use counterfactual reasoning, which is thinking about what would have happened if the technology took a different course of action than the one it actually took. Zheleva gave several examples of how this could work, such as if a program implemented a different recommender system, showed a different ad, or sent different app reminders.
+“Such expansion in capabilities would fundamentally change how we build future AI technologies and how we extract knowledge from big data,” she said.
+Zheleva said she was both excited and humbled when she heard the news that she received the CAREER award, the NSF’s top grant for early-career researchers. The funding will help her and her colleagues to understand factors that contribute to the spread of misinformation on social media, youth smoking, and repeat emergency room visits. She will work with Robin Mermelstein from the Department of Psychology on youth vaping, Andrew Rojecki from the Department of Communication on misinformation, and Plamen Petrov from Anthem on ER visits.
+
+
+
+
+Modified on October 12, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

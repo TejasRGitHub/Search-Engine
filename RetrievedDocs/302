@@ -1,0 +1,825 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Philip S. Yu receives Test of Time Award | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+Philip S. Yu receives Test of Time Award
+
+
+Andrea Poet
+|
+Posted on October 11, 2022
+
+
+
+
+
+
+
+
+            Philip S. Yu receives Test of Time award
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+Distinguished and Wexler Chair Professor Philip S. Yu and his coauthors received the Very Large Data Bases Endowment Inc. (VLDB) 2022 Test of Time award, for their 2011 paper that has proven to be the most influential and important paper of that year. The paper’s citation index is 1587.
+The paper, “PathSim: Meta Path-Based Top-K Similarity Search in Heterogeneous Information Networks,” was authored by Yu, Yizhou Sun, Jiawei Han, Xifeng Yan, and Tianyi Wu.
+“In my opinion, Test of Time awards are extremely important awards,” said Robert Sloan, professor and computer science department head. It’s one thing to win a best paper award when you publish a paper. That means people think it’s very good work. But when you win a Test of Time award 10 or 15 years after you publish a paper, that means that people now know your paper is really good, and really influential work.”
+The paper involves similarity search, a primitive operation in databases and web search engines. There are many diverse information networks, such as webpages interconnected through hyperlinks, social networks such as Facebook, and bibliographic networks. While two objects may be linked by many paths in the network, most previously existing similarity measures were designed for homogenous networks, and cannot be applied to heterogeneous networks, as different semantic meanings behind the paths were not taken into consideration.
+The authors introduced the concept of meta-path-based similarity, defining a meta path as a path consisting of sequence relations defined by different object types.
+“No matter whether a user would like to explicitly specify a path combination given sufficient domain knowledge, or choose the best path by experimental trials, or simply provide training examples to learn it, meta path forms a common base for a network-based similarity search engine,” the authors explained in the paper.
+They designed a novel similarity measure, PathSim, that finds peer objects in the network, such as finding authors in a similar field and with similar reputations. This tool was more adept at finding meaningful connections compared with random-walk-based similarity measures, which rely on the link path between any two patterns. To support fast online queries, Yu and his coauthors developed a solution that uses short meta paths, then concentrates them to compute the top-K results, or best answers, eliminating irrelevant results.
+“In short, all the world’s information networks consist of edges connecting multiple nodes, and before this paper, all the work in the area ignored differences concerning the types of the nodes and links,” Sloan said. “Analyzing computations about information propagation in a way that includes such type information leads to much better results. Today, this is simply the way the analysis is done for networks containing mixed types of nodes and edges.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

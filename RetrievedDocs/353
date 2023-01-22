@@ -1,0 +1,830 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Enhancing privacy-preserving computation with advanced cryptography | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+Enhancing privacy-preserving computation with advanced cryptography
+
+
+by Andrea Poet
+|
+Posted on April 13, 2021
+
+
+
+
+
+
+
+
+            Enhancing privacy-preserving computation with advanced cryptography
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+Just about every day, we share large amounts of personally identifiable data to access a variety of services—with our doctors, on social media, or via an online retailer for our latest purchase. The onus is on the recipients of that information to keep it safe while using it for the computations they need to perform.
+Therefore, the need for privacy-preserving computation on big data is greater than ever. Peihan Miao, an assistant professor of computer science, is working to improve functionality and efficiency of these systems by developing new advanced cryptographic tools.
+Miao and Mohammad Hajiabadi from Pennsylvania State University are collaborating on two sides of the privacy conundrum. They seek to improve the efficiency, functionality, and security of the underlying cryptographic tools from a theoretical perspective and a practical one.
+“We are trying to provide a way to compute on sensitive data while protecting the privacy of the underlying data,” Miao said.
+She is working to improve a fundamental cryptography tool called oblivious transfer, a protocol in which one party sends several pieces of information to a recipient but is oblivious about which, if any, are received. Improving its functioning and efficiency would help users to keep up with the demands for privacy created by machine learning applications and imposed by governments, such as the European Union’s General Data Protection Regulation and the California Privacy Rights Act, both of which protect consumers from the transfer of their personal data.
+Using these advanced cryptographic tools will open up a lot of applications, as what companies can do now is quite limited. For example, using new privacy-preserving tools, multiple hospitals would have the ability to run analytics or share data with one another through secure multi-party computation.
+“Secure multi-party computation enables multiple entities to share their data for more advanced analytics, such as running machine learning or deep learning algorithms, to perform more comprehensive study on the data. This is all done while preserving their data privacy,” Miao said.
+One practical problem Miao hopes to enhance through her research is private set intersection, a function that allows two parties each holding a set of private elements to compare encrypted versions of these sets of data, in order to compute the intersection of their private elements.
+For example, an advertiser might compare its encrypted data on its campaigns against encrypted data from a website to determine the effectiveness of an approach. Private set intersection also can be used for breached password monitoring, a service offered by Google Chrome, Apple iCloud Keychain, and Microsoft Edge. These platforms keep track of a user’s passwords and would be able to detect when the user’s password was breached—but without learning what the password is.
+Miao, who joined UIC in 2020, received a $250,000 National Science Foundation grant for this work, titled Expanding the Realm of Oblivious Transfer: New Tools for Cryptography. The grant period begins June 1. Hajiabadi received a similar grant for his portion of the project. Miao’s research focuses on cryptography and security, including secure multiparty computation, applied cryptography, secure authentication, and blockchain. She is seeking new graduate students to participate in her research.
+
+
+
+
+Modified on April 13, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

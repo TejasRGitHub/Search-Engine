@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+Helpfile for the software
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Program and Data files for the paper 
+ 
+Tanima Chatterjee, Bhaskar DasGupta,
+Laura Palmieri, Zainab Al-Qurashi and Anastasios Sidiropoulos, Alleviating
+partisan gerrymandering: can math and computers help to eliminate wasted
+votes?, arXiv:1804.10577 [cs.CY],
+2018. 
+
+
+
+ 
+<![if !supportLists]>o  
+<![endif]>Links for python
+source codes (to generate new redistricting maps): 
+<![if !supportLists]>o  
+<![endif]>prepare_data.py
+<![if !supportLists]>o  
+<![endif]>ungerrymander.py
+
+<![if !supportLists]>o  
+<![endif]>Instructions
+about how to compile and run the code
+(The above links will be active at a later date. The unavailable codes
+may be available by request for non-commercial scientific (academic) purposes).
+ 
+<![if !supportLists]>o  
+<![endif]>R code
+to create and manipulate the maps (save and then open with Notepad or similar
+text editors)
+<![if !supportLists]>o  
+<![endif]>prepareStateCounties.R
+creates the blank map of a certain state divided
+into counties
+<![if !supportLists]>o  
+<![endif]>mapVisualization.R
+creates the colored map and manipulates shared
+counties to assign the right color
+<![if !supportLists]>o   <![endif]>Instructions
+about how to compile and run the code
+ 
+
+
+
+ 
+ 
+Link to the data files for the three states used in the
+paper are below. Each data is an EXCEL spreadsheet.
+ 
+Explanations of various columns of the spreadsheet
+ 
+Column 1: 
+District: This
+column identifies the district number of the county in column 3. 
+ 
+Column 2:
+County_id: Column 1 and column 2 together form an unique identifier for the counties in column 3. A county is identified by its County_id (column 2) and the District (column 1) it belongs
+to. This was specifically needed to identify and differentiate the counties
+that belonged to more than one district.
+ 
+The software considers the counties belonging to different
+districts as separate entities.
+ 
+Column 3:
+County: This
+column contains the name of the county.
+ 
+Column 4:
+Republicans: This
+contains the total number of votes in favor of the Republican party (GOP) in the county identified by column 1 and column
+2.
+ 
+Column 4:
+Democrats: This
+contains the total number of votes in favor of the Democratic party in the county identified by column 1 and column 2.
+ 
+Column 5:
+Neighbors: This
+column contains information about the neighboring counties of the given county.
+“Neighboring counties” represents the
+counties that share a boundary with the county identified by column 1 and
+column 2. Neighbors are separated by commas.
+ 
+ 
+Links to the EXCEL spreadsheet data and
+maps
+ 
+<![if !supportLists]>(1)  <![endif]>Data
+for the state of Wisconsin
+<![if !supportLists]>a)    
+<![endif]>2012
+election of the (federal) house of representatives, and corresponding
+map
+<![if !supportLists]>b)    
+<![endif]>Un-gerrymandered
+districts proposed by our software, and corresponding
+map
+<![if !supportLists]>(2)  <![endif]>Data
+for the state of Texas
+<![if !supportLists]>a)    
+<![endif]>2012
+election of the (federal) house of representatives, and corresponding
+map
+<![if !supportLists]>b)    
+<![endif]>Un-gerrymandered
+districts proposed by our software, and corresponding
+map
+<![if !supportLists]>(3)  <![endif]>Data
+for the state of Virginia
+<![if !supportLists]>a)    
+<![endif]>2012
+election of the (federal) house of representatives, and corresponding
+map
+<![if !supportLists]>b)    
+<![endif]>Un-gerrymandered
+districts proposed by our software, and corresponding
+map
+<![if !supportLists]>(4)  <![endif]>Data
+for the state of Pennsylvania
+<![if !supportLists]>a)    
+<![endif]>2012
+election of the (federal) house of representatives, and corresponding
+map
+<![if !supportLists]>a)     <![endif]>Un-gerrymandered
+districts proposed by our software, and corresponding
+map
+ 
+
+
+

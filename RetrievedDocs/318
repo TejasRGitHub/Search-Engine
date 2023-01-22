@@ -1,0 +1,826 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Using natural language processing to improve mental health support | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+Using natural language processing to improve mental health support
+
+
+Andrea Poet
+|
+Posted on May 04, 2022
+
+
+
+
+
+
+
+
+            Using natural language processing to improve mental health support
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+May is Mental Health Awareness Month, and UIC Engineering research aims to help mental health professionals identify those who are most vulnerable with better support and screening tools.
+Those who suffer from psychotic disorders such as schizophrenia and bipolar disorder face a higher risk of suicide. These individuals also experience increased suicidal ideation, a higher likelihood of progression to a suicide attempt, and more severe suicide attempts compared with the general population. Despite this, those in the field say more research needs to be done to prevent suicide in this group.
+Assistant Professor Natalie Parde is developing ways to automatically detect linguistic and verbal features of psychotic disorders, with the goal of improving automated mental health support and screening. In the long term, her team hopes that this work could be leveraged to reduce downstream escalation (e.g., through lower rates of suicide) for people with these disorders.
+Clinical psychologists at the University of California – San Diego, the University of Texas – Dallas, and the University of Miami are collecting data via speech recordings with individuals with mental health issues. Over 300 samples from consensual patient-doctor recordings have been shared to date with Parde, with additional data coming.
+Using advanced methods of natural language processing – a branch of artificial intelligence that focuses on the automated interpretation and generation of human language  – Parde then analyzes the samples of natural language data.
+“We are transcribing these speech recordings to enable easier natural language processing, and then extracting specialized features from these transcripts, encoding different and potentially valuable characteristics of the spoken language,” Parde said.
+Preliminary data indicates that there is a link, over time, in how cognitive biases may be relevant to suicidal thinking and behavior in people with psychotic disorders. These biases include the ways patients perceive others, such as the risk of threat from others, or the value of relationships.
+The data is fed into machine learning algorithms with the end goal of automatically detecting mental health issues from the language and phrasing used to help mental health providers detect suicide ideation in these patients.
+The four-year study involves recordings of those with psychotic disorders, as well as a control group of patients. This allows the researchers to empirically analyze the language differences between members of those groups. Parde said a barrier to this type of work is the difficulty in obtaining data sets for these tasks.
+“We plan to make our data and results publicly available so others can build upon this work and develop models of their own,” Parde said.
+Parde is co-director of the UIC Natural Language Processing Laboratory and primarily researches natural language processing, with an emphasis on healthcare applications.
+Her $117K grant is part of a $2.34M National Institutes of Health project under Colin A. Depp at the University of California – San Diego, Social Cognition and Suicide in Psychotic Disorders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

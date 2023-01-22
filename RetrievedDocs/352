@@ -1,0 +1,838 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Wei Tang using computer vision to improve cell phone photos taken in low-light conditions | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+Wei Tang using computer vision to improve cell phone photos taken in low-light conditions
+
+
+by Andrea Poet
+|
+Posted on April 22, 2021
+
+
+
+
+
+
+
+
+            Wei Tang using computer vision to improve cell phone photos taken in low-light conditions
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+
+          Jim Young
+        
+
+
+We’ve all been there, trying to snap the perfect picture with our cellphones outside at night or in a poorly-lit room only to be disappointed with a grainy, dark, blurry image. Assistant Professor Wei Tang is working with cellphone maker Motorola to overcome this problem, integrating deep neural networks—also known as deep learning—with conventional image processing techniques.
+Tang says the issue is two-sided; exposure time must be increased in low-light environments to improve the brightness of the image, but a side effect of that increased exposure is blurriness that must then be removed. He is working on methods to deblur the images, returning a crisp, clean version of the picture, while another team from the phone maker works to brighten these low-light photos.
+“Traditionally, we need to build a mathematical model of the blurring process, and solve an optimization problem,” Tang said. “But it is very complex. Depending on the distance of an object in a scene and its motion, the blur can be different.”
+Tang and his team, which includes Zhiming Zou, a computer science (CS) graduate student who is transferring to UIC’s CS doctoral program this fall under Tang’s supervision, and Chengkang Shen, a graduate student from the Electrical and Computer Engineering Department, are working with a deep learning model.
+Deep learning, a branch of machine learning, builds an artificial neural network to “learn” to recognize objects, faces, and all manners of data. Just as a human brain learns by repetition, computers are trained on multiple data sets so their accuracy improves. Deep neural networks are composed of multiple layers stacked on top of each other, designed to refine and improve results.
+“We train the network on piles of images, with blurry and clean images, and we create a loss function, or learning objective, so it will know what the preferred image is. We are teaching the model to produce a clean image from a blurry one,” Tang said.
+This isn’t the first time deep learning is being applied to improving images; Tang says the work is popular in computer vision research. The crucial challenge is that it takes existing approaches more than 200 seconds to deblur a 12-megapixel image on a phone. Tang and his team aim to cut that processing time dramatically—to 1.5 seconds.
+The research will benefit many other computer vision applications, including autonomous driving, intelligent surveillance, and robotics. The $100,000 grant from Motorola, for the project titled “Low-light Image Enhancement for Phone Cameras,” runs from Jan 1 through Dec. 21, 2021.
+Tang is working to tackle other computer vision problems. One research project examines objects from a single image, say of a living room with a coffee table, sofa, and television. From that two-dimensional image, Tang tries to recover the three-dimensional shape and pose of each object in the room. This work is useful in augmented reality and intelligent robotics.
+“If you have a robot in a warehouse, it needs to know how to pick something up, it has to understand the shape of objects, and environment where it is working in,” Tang said.
+A similar project involves analyzing videos of a person performing tasks. Not only is the computer model learning what the person in the video is doing—in the case of preparing a meal, that would include things like chopping vegetables, placing them in a pan, then plating the prepared meal, but the motions of the body during this process—a holistic understanding of the person’s actions. Tang said this can improve human-computer, and human-robot interaction.
+“An intelligent robot can serve a patient or an elder if it understands how a person moves in a room, for example. It can help keep people safe,” Tang said.
+Tang’s research interests include computer vision, pattern recognition and machine learning. He is seeking new graduate students to participate in his research.
+
+
+
+
+Modified on April 27, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

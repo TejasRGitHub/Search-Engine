@@ -1,0 +1,835 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Mark Grechanik receives nearly $1 million from NSF for securing assistive apps, and app testing | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+Mark Grechanik receives nearly $1 million from NSF for securing assistive apps, and app testing
+
+
+Andrea Poet
+|
+Posted on March 22, 2022
+
+
+
+
+
+
+
+
+            Mark Grechanik receives nearly $1 million from NSF for securing assistive apps, and app testing
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+A new system for detecting malicious software
+Over 600 million people worldwide have disabilities, including impaired vision, movement disorders, difficulty with oral communications, and hearing loss.
+The ubiquitous nature of graphical user interface applications, which allow a user to interact easily via their smart phone by making choices from icons and menus, can be challenging for users with disabilities, and may require the use of accessibility technologies, such as screen readers.
+Associate Professor Mark Grechanik is working to ensure that accessibility technologies used by people with disabilities are secure. He has created a platform that automatically deceives malicious applications to reveal their true intent.
+“Accessibility technologies are a must for users with a disability,” Grechanik said. “You give permissions to assistive applications and hope for the best, but these technologies can be used by malicious programmers to do all types of damage.”
+Rather than try to do the impossible task of blocking all malicious applications, Grechanik’s platform still allows malicious applications to be installed and run on smart phones, but it places new apps in a trial mode. Only after the app is determined to provide useful services is it granted the fully trusted status, and the process is automatic.
+The platform uses the idea of defense by deception, or weaponized phishing. Say a user wants to have the assistive technology app they downloaded to read aloud their bank financial information or magnify information on an interface they have downloaded from their bank.
+Grechanik’s platform (which is not visible to users) creates doppelgängers of the bank’s app that contain fake usernames and passwords. The malicious application has no idea which app is real and which is a doppelgänger. If the assistive technology grabs the phony credentials created by the platform, the application is blacklisted. The platform also denies the assistive technologies’ ability to detect the platform in the first place.
+“The bank is immediately notified that a third party is trying to access the data to steal your information when these fake logins and passwords are used,” Grechanik said. “It will be removed from the Google Play Store.”
+If over a period of time—usually a few months—an assistive technology has not tried to use an external login, the confidence rises that it’s legitimate, and it’s automatically taken out of the watch list and whitelisted as safe.
+Improving the testing of applications using the same technology
+Grechanik realized that the same technique that allows him to control and manipulate these malicious applications could be used to test any application to see if it behaves as desired.
+The current process to test applications is expensive and monotonous. Test engineers must start the application and enter data, a tedious process that requires creating programs that simulate real users. The process is costly, and runtime errors in the test scripts prevent them from running automatically for an extended period of time. Also, any modifications to the app–changing a button to a box, for example—can break the test program/script.
+To create a new process, Grechanik extended a theoretical concept called an X-machine, developed decades ago as part of the mathematical theory of computation. As part of the process, the application itself is translated into a mathematical representation, and tests scripts are special functions associated with state transitions of the applications. If a change is made to an application, information can be extracted about those states, and the functions are applied to the states of the app, determining if it is behaving as desired.
+“The test program is written in a specialized mathematical language that simulates this test machine, and then those descriptors are an input into the theorem prover,” said Grechanik. “It should prove if my test program will work on those changes you made, or what needs to be repaired, and it can be repaired automatically.”
+As software can cost millions of dollars to develop and can contain 10 million lines of code, simplifying and automating testing will be extremely useful.
+Grechanik received two grants totaling just under $1 million to support this work from the National Science Foundation, Defense by Deception of Smartphone Software Applications For Users With Disabilities and Proving User Interface Testing Programs Correct.
+ 
+
+
+
+
+Modified on March 23, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

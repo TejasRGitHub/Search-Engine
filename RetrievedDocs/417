@@ -1,0 +1,884 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Building Trust By Communicating Risk | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+      View Menu
+      
+Down arrow icon
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumbs
+
+Computer Science
+
+
+Research
+
+
+Lectures and Seminars
+
+
+Building Trust By Communicating Risk
+
+
+
+
+
+
+Building Trust By Communicating Risk
+
+
+Dr. L. Jean Camp
+Director Security Informatics, Indiana University - Bloomington
+Thursday, November 14th, 2013
+2:00 p.m., 1000 SEO Building
+
+
+
+
+
+
+
+            Abstract:
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+Computer security mechanisms involve the mitigation of risk; operating a computer and interacting with the network requires a myriad of trust decisions. Security risk mitigations depend not only on technical mechanisms but also on human decision-making and subsequent behavior. Current practice is to treat human risk behaviors as interaction or usability requirements to be addressed with a gloss over an otherwise complete system. We argue instead for the application of human trust and risk decision heuristics applied not as a gloss but rather as design constraints via a taxonomy of likely behaviors. Thus well-documented irrational heuristics as well as rational incentives can be integrated into the design of technical security mechanisms. Human and organizational behaviors are as much constraints on network security designs as bandwidth and processing power. In order to illustrate how this fails in certificate design, I illustrate the theoretical failures of trust in current certificate applications and show how these occur in practice.
+
+
+
+
+
+
+            Bio:
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+Professor L. Jean Camp’s core interest is human-centered security and privacy. This interest spans domains from home-based computing to human interactions to reduce routing errors. It was the interdisciplinary focus that led Prof. Camp from graduate electrical engineering research in North Carolina to the Department of Engineering and Public Policy at Carnegie Mellon, and it remained her core interests as a Senior Member of the Technical Staff at Sandia National Laboratories. At Sandia National Laboratories her work focused on computer security. She left Sandia National Laboratories for Harvard’s Kennedy School, focusing on technology policy in the realms of security and privacy. As a Professor in Informatics her research addresses human-centered design in security and privacy as well as economics of security. See http://www.ljean.com for more information.
+Host: Chris Kanich
+
+
+
+
+
+
+
+
+Research
+
+
+Back to main content
+
+
+
+
+
+
+
+
+
+Research Areas 
+
+Labs 
+
+Research Experiences for Undergraduates 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,850 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Can’t meet your friends to play your favorite game? | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+Can’t meet your friends to play your favorite game?
+
+
+by Andrea Poet
+|
+Posted on May 26, 2021
+
+
+Radison Akerman wrote over 10,000 lines of code to move the fun online.
+
+
+
+
+
+
+            Can’t meet your friends in person to play your favorite game?
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+Back in high school, Radison Akerman and his friends were really interested in a card game called Exploding Kittens. Not wanting to drop the $20 to purchase the game outright, they cobbled together their own version, painstakingly hand-drawing cards. They named it Exploding Chickens and spent countless hours at lunch enjoying their creation. Covid-19 struck, school went online, and the game was shelved.
+During winter break of his senior year, Akerman, now a rising sophomore in UIC’s computer science department, decided to develop an online version of their Exploding Chickens game. More than 250 hours of work and 10,000 lines of code later, Akerman and his friends were playing the game virtually.
+“I knew how to make it, but we completely underestimated the kind of logic that goes into a card game, there are a lot more moving parts,” Akerman said. “If someone makes a mistake, such as playing a card at a wrong time, a player can pick it back up in an in-person game. In an online game, the computer has to catch that error and notify the player.”
+Akerman said his approach to creating the Exploding Chickens online game mirrored another intricate idea he took on: creating a full application to automate finish-line times for an annual raft race on Rockford’s Rock River that he helps manage. When the race first began five years ago, racer’s times had to be hand-calculated to determine a winner. Thanks to an application he spent months to create, the times can be calculated instantaneously.
+Akerman became interested in computer science with an introduction to microcontrollers in a FIRST LEGO league, followed by participation in FIRST robotics. He worked for Montel Technologies in Loves Park in high school as a brand developer, learning full stack web development to design the front end of the site to showcase the company’s projects.
+This summer, Akerman looks forward to returning to Montel Technologies as an intern in IT systems management and working at UIC through the Guaranteed Paid Internship Program. He also is finishing up a stint as a section leader for Stanford University’s Code in Place, a five-week online program that teaches Python to anyone—no programming background required.
+“I heard about the opportunity from Professor Reckinger; she posted about it on Piazza,” Akerman said. “I really like teaching. There are 10 students in my section, but thousands of students take the class. I’m one of the section leaders, out of 1,000 teaching assistants.”
+Akerman looks forward to a return to campus next year and hopes to join the Engineering Design Team and Linux Users Group. He is interested in a career at the intersection of cybersecurity and software design.
+To play Exploding Chickens online, or learn more about Akerman, visit his website—which he designed, of course.
+
+
+
+
+
+
+            Akerman
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+Radison Akerman
+
+
+
+
+Modified on August 02, 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,847 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Designing a network (and networking) | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+Designing a network (and networking)
+
+
+by Andrea Poet
+|
+Posted on June 16, 2021
+
+
+
+
+
+
+
+
+            Designing a network (and networking)
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+
+
+
+As recently as a few weeks ago, Afifa Nadeem knew how to connect her computer to the internet, but she had scant knowledge about the physical infrastructure that permitted that seamless access to the web.
+Today, she has a general sense of how to design networks to serve entire neighborhoods.
+Nadeem is one of five UIC students who worked with Cisco, the networking hardware, software, and technology services company, as part of Break Through Tech Chicago’s micro-internship program, Sprinternships. She and Amanda Arreguin, Ann Kim, Rose Maxime, and Angelica Rivas spent three weeks learning about the company, meeting and working with Cisco engineers, hearing from guest speakers, and working on an in-depth project.
+Their in-depth project built on UIC’s and Cisco’s shared interest in community outreach. The Sprinterns came up with a way to leverage the university’s computer network to bridge Chicago’s digital divide and help a neighboring community with no-cost internet access.
+“We chose the Pilsen neighborhood,” Nadeem said. “With COVID-19 shutting down schools and many businesses shut down, we thought free internet was important.”
+The team worked with Cisco engineers to design the network using routers, switches, cloud management products, and Fluidmesh, a product that connects Internet of Things devices.
+Eric Lindbloom, a Cisco account manager who worked with the group, said the Sprinterns went through three iterations of their design, refining it each time after receiving feedback from the engineers. They presented their findings, including a budget, to more than two dozen Cisco employees and executives on the last day of their Sprinternship.
+“We were blown away by their work,” said Samantha Kozub, a project manager with Cisco. “They were completely engaged in this project. They had a passion in the message they wanted to convey and a relentless pursuit of trying to get the right answers.”
+Kozub said it is their hope that the Sprinterns will stay in touch with Cisco; the company has offered monthly meetings with a rotation of all the mangers in her team. The Sprinterns’ work, while not implementation-ready, could be helpful in inspiring or guiding future projects.
+Ann Kim said the Sprinternship made her more comfortable in her skills.
+“I was scared before about how I could apply my university knowledge to a career,” she said. “I realize I shouldn’t be worried about that—a company will help me learn in the job.”
+Nadeem said the experience gave her new ideas about future roles.
+“I think this opened the door to me exploring a career on the network and system-design side of computer engineering,” she said. “Break Through Tech has a really good program. It’s very helpful for all the women pursuing an engineering career. I encourage all computer science and computer engineering majors to take advantage of this program.”
+Photograph (UIC Engineering / Jim Young): Afifa Nadeem in front of a mural in Pilsen by the artist Pablo Serrano
+This story first appeared on Break Through Tech Chicago’s website.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

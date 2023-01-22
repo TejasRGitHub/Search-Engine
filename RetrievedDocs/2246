@@ -1,0 +1,161 @@
+
+
+
+
+
+
+
+
+
+
+
+ Lifelong Machine Learning 
+
+ 
+
+2nd edition
+The First Book dedicated to the topic
+
+2nd edition
+
+
+
+1st edition
+
+
+
+
+Lifelong Machine Learning  
+Zhiyuan Chen and Bing Liu
+ Second Edition - Table of Contents
+An interview in Nature Outlook, July 20, 2022.
+Liu's research page on Lifelong and Continual Learning.
+Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, August, 2018
+
+
+
+
+Lifelong Machine Learning or Lifelong Learning (LL) is an 
+advanced machine learning (ML) paradigm that learns continuously, 
+accumulates the knowledge learned in the past, and uses/adapts it 
+to help future learning and problem solving. In the process, the learner 
+becomes more and more knowledgeable and better and better at learning. 
+This continuous learning ability is one of the hallmarks of human intelligence.
+However, the current dominant ML paradigm learns in isolation: given a
+training dataset, it runs a ML algorithm only on the dataset to produce 
+a model. It makes no attempt to retain the learned knowledge and 
+use it in subsequent learning. 
+Although this isolated ML paradigm, primarily based on data-driven
+optimization, has been very successful, it requires a large number 
+of training examples, and is only suitable for well-defined and narrow 
+tasks in closed environments. In contrast, we humans learn effectively
+with a few examples and in the dynamic and open world or environment 
+in a 
+self-supervised manner because our learning is also very much 
+knowledge-driven: the knowledge learned in the past helps us learn new 
+things with little data or effort and adapt to new/unseen situations. 
+This self-suprevised (or self-aware) learning also enables us to learn 
+on the job in the interaction with 
+others and with the real-world environment with no external supervision. 
+LL aims to achieve all these capabilities. Applications such as chatbots, s
+elf-driving cars, or any AI systems that interact with humans/physical 
+environments are calling for 
+these capabilities because they need to cope with their dynamic and open 
+environments which leave them with no choice but to continuously learn new 
+things in order to function well. Without the LL ability, an AI 
+system cannot be considered truly intelligent, i.e.,  LL is necessary for intelligence or AGI (artificial general intelligence). (See our work in my Lifelong Learning research page).
+
+ Main changes to the first edition
+
+ Expanded the definition/scope of lifelong learning (LL) in Chapter 1  
+Introduction. LL is characterized by 1) continuous learning process, 2) knowledge accumulation, 3) use/adapt past knowledge to help new learning, 4) learning in the open world, and 5) learning on the job. 
+Added three new chapters: Chapter 4 Continual Learning and Catastrophic Forgetting, Chapter 5 Open-world Learning, Chapter 8 Continuous Knowledge Learning in Chatbots
+ Introduced the concept of learning on the job or learning while working. 
+ Updated and/or reorganized the rest of the chapters.
+
+
+ Teaching and Learning: 
+This book is suitable for students, researchers, and practitioners 
+interested in machine learning, data mining, and natural language 
+processing. Lecturers can use the book in class. Some resources can be found 
+in my Lifelong Learning research page.  
+
+
+ Get the second edition 
+
+ 
+
+ Download for free, if your institution is on this list. 
+ Order from  Morgan & Claypool Publishers. 
+
+ Download the first edition.
+
+ Email me for an evaluation copy for teaching. 
+
+ 
+
+207 Pages, August 2018. 
+Paperback: ISBN 9781681733029  
+eBook: ISBN 9781681733036 
+
+
+ Get the first edition 
+
+ 
+
+ Download for free, if your institution is in this list. 
+ Order from  Morgan & Claypool Publishers. 
+
+ Download the first edition
+
+
+ 
+
+145 Pages, November 2016. 
+Paperback: ISBN 9781627055017 
+eBook: ISBN 9781627058773 
+
+
+
+
+
+
+
+
+
+ Table of Contents 
+
+Introduction
+Related Learning Paradigms 
+Lifelong Supervised Learning 
+Continual Learning and Catastrophic Forgetting
+Open-world Learning
+Lifelong Topic Modeling
+Lifelong Information Extraction
+Continuous Knowledge Learning in Chatbots
+Lifelong Reinforcement Learning
+ Conclusion and Future Directions 
+
+
+
+
+ Lecture Slides 
+
+ Slides will be posted here when they are done. Most have been used in tutorials at IJCAI-2015, KDD-2016, and EMNLP-2016. We are updating them.
+
+My lifelong machine learning research page
+ Errata List for the first edition
+
+ Page 48 - Equation 3.26: F_{+,i} = P(+ | d_i) - P(- | d_i), and four lines above it: P(- | d_i) = 1.
+ Please send me your comments and errata
+
+
+
+
+ 
+
+
+First Draft: by Bing Liu  on November 6, 2016. 
+
+
+

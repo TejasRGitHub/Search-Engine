@@ -1,0 +1,78 @@
+
+
+
+Introduction to Make
+
+
+A Brief Introduction to the use of "make"
+General Purpose & Usefulness
+
+The "make" utility is a general purpose
+  "command generator", that can be used to automate many
+  repetitive tasks.
+  The most common use of "make" is to compile
+  and link computer code into executable programs, particularly
+  when there are multiple files involved and/or if the commands
+  required to build the programs are complicated. In this case
+  make has the ability to determine which file(s) are out
+  of date, and to re-compile and re-link only those files that
+  require updating, including all necessary compiler options and
+  libraries.
+  make can also be used for other tasks, such as cleaning
+  directories, assembling libraries, updating files, checking calendars,
+  etc.
+
+make Configuration Files
+At the heart of make lies one or more configuration
+files, which specify what file(s) are required to build a specified
+target, and what commands must be executed to build that target.
+These configuration files lie in one of three locations:
+
+System default files, contain default information for make
+  to use when no other information is available. This can often
+  be sufficient if all source code is in a single file and no special
+  options are required.
+  "makefile" or "Makefile" - These files
+  can be written by the user with an ordinary text editor, to provide
+  specific configuration information for a particular project.
+  These files are normally kept in the same directory as the source
+  code files for the project being worked on.
+
+Basic makefile Syntax
+A makefile consists of a series of one or more "targets",
+which are the desired products of running make. For each
+target there is a list of dependencies and one or more command
+lines necessary for building the desired target. The syntax is
+as follows:
+
+target : dependencies<
+  TAB >command line(s) to build the target<
+  TAB >command line(s) to build the target, ...
+
+Note that the lines containing the necessary commands must
+begin with tabs, or else make will not work.
+Examples
+The following makefile contains information for creating "myprog"
+from 3 input files:
+
+myprog : myfile1.c myfile2.c myfile.h      cc -o myprog
+  myfile1.c myfile2.c
+
+In this example make will check to see if any of the
+three dependencies have changed since the last time "myprog"
+was created, and will rebuild myprog using the cc
+command line if necessary.
+Macros
+Internal Macros
+Priorities
+Suffix Rules
+Further Reading
+For further information regarding make, the following text
+is highly reccomended:
+
+Oram, Andrew and Steve Talbott, "Managing Projects with
+  make", O'Reilly & Associates, Sebastapol, CA, www.oreilly.com,
+  1991.
+
+
+

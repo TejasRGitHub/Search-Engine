@@ -1,0 +1,615 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Congestion control for RDMA | BITS Lab | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BITS Lab
+
+Main Menu
+
+
+
+
+        Home
+      
+
+
+
+
+        Sample Projects
+      
+
+
+Expand Sample Projects menu
+
+
+
+
+
+
+
+
+
+
+
+                  Deterministic Multithreading
+                
+
+
+
+
+                  Delegation for Efficient Multi-Threading
+                
+
+
+
+
+                  Congestion control for RDMA
+                
+
+
+
+
+                  Tail Latency in Datacenters
+                
+
+
+
+
+                  Cache-efficient index access for large in-memory datasets
+                
+
+
+
+
+                  Cloudsweeper
+                
+
+
+
+
+
+
+
+
+
+        Publications
+      
+
+
+
+
+        Join BITS Lab
+      
+
+
+
+
+        People
+      
+
+
+
+
+        Contact
+      
+
+
+
+Eyebrow menu
+
+
+Department of Computer Science
+
+
+College of Engineering
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                BITS Lab
+              
+UIC Computer Science 
+
+
+
+
+
+
+      View Menu
+      
+Down arrow icon
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumbs
+
+BITS Lab
+
+
+Sample Projects
+
+
+Congestion control for RDMA
+
+
+
+
+
+
+Congestion control for RDMA
+Fast congestion control for RDMA-based datacenters
+This project addresses the challenge of achieving extreme low latency in datacenter networks for Online Big Data (OLBD) applications, which are critical workloads in datacenter computing. Remote Direct Memory Access (RDMA), which is a promising alternative to traditional TCP, significantly reduces unloaded network latencies by about an order-of-magnitude. However, in practice, existing congestion control schemes for RDMA require several tens of round trips to converge to their optimal rates with typical workloads. Our project aims to close this gap between unloaded and loaded network latencies. We collaborate with researchers from Purdue University in this NSF-funded project.
+
+
+
+
+
+
+            Project Members
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+
+
+User icon
+
+
+
+
+
+
+Balajee Vamanan
+
+
+
+
+
+
+User icon
+
+
+
+
+
+
+Muhammad Usama Chaudhry
+
+
+
+
+
+
+
+
+SIGCOM 2018  Fast Congestion Control in RDMA-based Datacenter Networks
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+
+
+
+
+
+
+                            Poster Details
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+                            Tech Report
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+Sample Projects
+
+
+Back to main content
+
+
+
+
+
+
+
+
+
+Deterministic Multithreading 
+
+Delegation for Efficient Multi-Threading 
+
+Congestion control for RDMA 
+
+Tail Latency in Datacenters 
+
+Cache-efficient index access for large in-memory datasets 
+
+Cloudsweeper 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ jakob@uic.edu
+
+ 
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+

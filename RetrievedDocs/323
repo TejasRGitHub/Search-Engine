@@ -1,0 +1,832 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                            Faculty book shows possibilities of using AI in CS education | Computer Science | University of Illinois Chicago
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your browser is unsupported
+We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search the site
+
+
+
+
+      Toggle Menu
+      
+
+
+
+
+
+        Search
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Illinois Chicago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+Main Menu
+
+
+
+
+        Undergraduate
+      
+
+
+Expand Undergraduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Accreditation
+                
+
+
+
+
+                  Advising
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  Majors
+                
+
+
+
+
+                  Minor
+                
+
+
+
+
+                  Internships and Jobs
+                
+
+
+
+
+                  Student Groups
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+                  Women in CS
+                
+
+
+
+
+
+
+
+
+
+        Graduate
+      
+
+
+Expand Graduate menu
+
+
+
+
+
+
+
+
+
+
+
+                  Admitted Students
+                
+
+
+
+
+                  Admissions
+                
+
+
+
+
+                  Courses
+                
+
+
+
+
+                  MS Program
+                
+
+
+
+
+                  PhD Program
+                
+
+
+
+
+                  PhD Alumni List
+                
+
+
+
+
+                  Post-Graduation Outcomes
+                
+
+
+
+
+                  Student Resources
+                
+
+
+
+
+
+
+
+
+
+        Research
+      
+
+
+Expand Research menu
+
+
+
+
+
+
+
+
+
+
+
+                  Research Areas
+                
+
+
+
+
+                  Labs
+                
+
+
+
+
+                  Research Experiences for Undergraduates
+                
+
+
+
+
+
+
+
+
+
+        Faculty and Staff
+      
+
+
+Expand Faculty and Staff menu
+
+
+
+
+
+
+
+
+
+
+
+                  Department Head
+                
+
+
+
+
+                  Faculty
+                
+
+
+
+
+                  Emeritus Faculty
+                
+
+
+
+
+                  Adjunct Faculty
+                
+
+
+
+
+                  Postdocs
+                
+
+
+
+
+                  Staff
+                
+
+
+
+
+                  Faculty Resources
+                
+
+
+
+
+                  Open Positions
+                
+
+
+
+
+
+
+
+
+
+        News
+      
+
+
+Expand News menu
+
+
+
+
+
+
+
+
+
+
+
+                  Our New Building
+                
+
+
+
+
+                  News Stories
+                
+
+
+
+
+                  Press Mentions
+                
+
+
+
+
+
+
+
+
+
+        Events
+      
+
+
+Expand Events menu
+
+
+
+
+
+
+
+
+
+
+
+                  CS calendar
+                
+
+
+
+
+                  Lectures and Seminars
+                
+
+
+
+
+                  Student Opportunities
+                
+
+
+
+
+
+
+
+
+Eyebrow menu
+
+
+Break Through Tech
+
+
+Give
+
+
+Alumni
+
+
+UIC Engineering Home
+
+
+UIC menu
+
+
+UIC.edu
+
+
+Campus Map
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Computer Science
+              
+College of Engineering 
+
+
+
+
+
+
+
+
+
+
+
+Faculty book shows possibilities of using AI in CS education
+
+
+Andrea Poet
+|
+Posted on March 11, 2022
+
+
+
+
+
+
+
+
+            Faculty book shows possibilities of using AI in CS education
+          Heading link
+
+
+
+ 
+Copy link
+
+
+
+
+
+
+A new book authored by Professor Barbara Di Eugenio and two of her former PhD students aims to improve introductory college computer science courses.
+Intelligent Support for Computer Science Education: Pedagogy Enhanced by Artificial Intelligence, published in the fall by CRC Press, provides an introduction to the computer education landscape at all levels of education.
+It also provides an analysis of one-on-one human tutoring dialogues in introductory college computer science courses and presents a tutoring software system that the authors developed and evaluated at UIC.
+The software system, ChiQat-Tutor, provides intelligent support to students and plays the role of a human tutor, available 24/7. Di Eugenio and her former students Davide Fossati and Nick Green built the system using research the students had conducted for their respective theses. They collaborated with Stellan Ohlsson, a professor of psychology and adjunct professor of computer science at UIC, to develop their framework, using his approach and theories on how people learn.
+Their software tool evaluates where a student is in a particular  problem and determines if they are likely to get to a solution or not—similar to how a  human tutor might approach the situation. If the student is making progress and is on the right track, help will not be provided, but if a student is at an impasse, the program will provide feedback—differentiated by whether the student has no chance of finding the solution or if they are on a promising path to the solution.
+“We didn’t want to solve it for them, but to give them a hint,” Di Eugenio said.
+The software system was developed and evaluated through classroom use by several UIC faculty members: Associate Professor John Lillis, Clinical Professor Dale Reed, and Clinical Associate Professor Patrick Troy. The program was tested in four classes: Program Design II (CS141), Mathematical Foundations of Computing (CS 151), Data Structures and Discrete Mathematics (CS 201), and Programming Practicum (CS 211).
+“Using artificial intelligence to teach introductory computer science courses can improve computer science education,” Di Eugenio said.
+ChiQat-Tutor is portable and can be adapted to individual courses. While further development of ChiQat-Tutor is not currently being pursued, an open-source, static version is available and can be modified and enhanced by would-be adopters.
+“I’m very proud that my coauthors are my former PhD students. It was a pleasure to work with them, and to take their two separate theses and bring them together in a coherent whole,” Di Eugenio said.
+The book took five years to complete and get published. In that time, Fossati moved on to Emory University, where he is a senior lecturer of computer science. Green is now an engineer at Facebook. Di Eugenio also credits three of her former PhD students who worked on the book—Mehrdad Alizadeh, Lin Chen, and Rachel Harsley—as well as a former postdoctoral researcher, Omar AlZoubi, and Christopher Brown of the US Naval Academy.
+The book is available for purchase from the publisher, and various sources online.
+
+
+
+
+Modified on March 14, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer Menu
+
+
+Undergraduate Resources
+
+
+Graduate Resources
+
+
+Faculty Resources
+
+
+ABET Accreditation
+
+
+
+
+
+
+Social Media Accounts
+
+
+
+
+
+
+Linked In
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+ For CS student and faculty inquiries, contact:
+851 S. Morgan St., 11th Floor SEO, Chicago, IL 60607
+Phone: (312) 996-3422
+cs-info@uic.edu
+
+ 
+
+
+
+
+
+
+
+
+UIC.edu links
+
+UIC.edu
+Academic Calendar
+Athletics
+Campus Directory
+Disability Resources
+Emergency Information
+Event Calendar
+Job Openings
+Library
+Maps
+UIC Safe Mobile App
+UIC Today
+UI Health
+Veterans Affairs
+
+
+
+
+
+
+Powered by Red 3.0.51
+
+  © 2022 The Board of Trustees of the University of Illinois |
+Privacy Statement
+
+
+Campuses
+
+University of Illinois System
+Urbana-Champaign
+Springfield
+
+
+
+
+
+
+
+
+
+
+
+
